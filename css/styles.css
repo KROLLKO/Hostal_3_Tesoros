@@ -1047,15 +1047,15 @@ body {
   }
 }
 
-/*DECTECTAR DESBORDAMIENTO*/
+/*DECTECTAR DESBORDAMIENTO
 
 * {
-  outline: 1px solid red; /* dibuja bordes en todo */
+  outline: 1px solid red; /* dibuja bordes en todo *
 }
 
 html, body {
   overflow-x: hidden;
-}
+}*/
 
 
 
